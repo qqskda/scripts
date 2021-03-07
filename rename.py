@@ -1,5 +1,5 @@
 """
-Renames the filenames within the same directory and delete it self after
+Renames the files in the same directory and delete itself after completion
 Usage:
 python rename.py
 """
